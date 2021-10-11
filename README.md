@@ -8,22 +8,22 @@ The purpose of this analysis is to look at data and trends for bike rentals from
 
 ## Results
  
-![pic1](https://github.com/Klubbers0/bikesharing/blob/3e6c55f695dfbaf0c0e047563fcd4598c6ac1651/chkoutimeuser.PNG)
+![pic1](https://github.com/Klubbers0/bikesharing/blob/5560ee0bf440dc426e9707cbd926aa0ee3154176/chkoutimeuser.PNG)
 **Checkout Times for Users** This graph shows the majority of users check out and use their bikes for less than a hour.
 
 
-![pic2](https://github.com/Klubbers0/bikesharing/blob/3e6c55f695dfbaf0c0e047563fcd4598c6ac1651/ckouttimesbygndr.PNG)
+![pic2](https://github.com/Klubbers0/bikesharing/blob/5560ee0bf440dc426e9707cbd926aa0ee3154176/ckouttimesbygndr.PNG)
 **Checkout Times by Gender* This graph is similar to the first, however the data is broken down by gender, showing us that males check out bikes at a much higher rate, almost 3 times higher than females or unknown. 
 
-![pic3](https://github.com/Klubbers0/bikesharing/blob/3e6c55f695dfbaf0c0e047563fcd4598c6ac1651/tripbywkday.PNG)
+![pic3](https://github.com/Klubbers0/bikesharing/blob/5560ee0bf440dc426e9707cbd926aa0ee3154176/tripbywkday.PNG)
 **Trips by Weekday per Hour** This graph shows the highest and lowest volumes of checkout times for bikes, by hour. For weekdays, mornings between 7-10am and evenings between 5-8pm are the highest, while on weekends checkout times pick up around 10am, continue throughout the day and start to teeter off around 8pm.
 
 
-![pic4](https://github.com/Klubbers0/bikesharing/blob/3e6c55f695dfbaf0c0e047563fcd4598c6ac1651/tripsbygender.png)
+![pic4](https://github.com/Klubbers0/bikesharing/blob/5560ee0bf440dc426e9707cbd926aa0ee3154176/tripsbygender.png)
 **Trips by Gender (Weekday Per Hour)** This graph is similar to the last, however the data is broken down more by gender. This graph shows us that males account for the majority of the bike checkouts on weekedays and weekends. 
 
 
-![pic5](https://github.com/Klubbers0/bikesharing/blob/3e6c55f695dfbaf0c0e047563fcd4598c6ac1651/usertripbywkday_blue.PNG)
+![pic5](https://github.com/Klubbers0/bikesharing/blob/5560ee0bf440dc426e9707cbd926aa0ee3154176/usertripbywkday_blue.PNG)
 **User Trips by Gender by Weekday** This final graph shows the number of trips, by weekday by user type, subscribers vs customer, and is then further borken down by gender. Males have the higher amount of trips as subscribers, with the most popular days being Thursday and Friday. Females also have higher amounts of trips as subscribers, but have lower utlization than the males. 
 
 ## Summary
